@@ -2,6 +2,8 @@
 
 作业采用X86-64 Linux格式汇编编写，使用The GNU Assembler汇编，使用The GNU Linker链接
 
+文件夹内包含shell脚本用于汇编和链接
+
 - 作业1 接受年、月、日信息并进行展示
 
     汇编源文件：CallRet.asm
